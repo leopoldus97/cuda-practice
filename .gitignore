@@ -1,0 +1,11 @@
+# Files for playing around
+main.py
+prime_GPU.py
+prime_mc.py
+
+# Virtual environment
+.vCuda
+vCuda/
+
+# Data files
+data/
