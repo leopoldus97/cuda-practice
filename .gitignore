@@ -8,4 +8,4 @@ prime_mc.py
 vCuda/
 
 # Data files
-data/
+*.csv
